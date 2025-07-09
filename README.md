@@ -11,7 +11,7 @@ Me presento, me llamo Bryan Tapia, tengo 21 años, estudio en la Ecotec. Estoy e
 Clase Rama 3: Erick Aguilar
 
 Me presento, me llamo Erick Aguilar, tengo 22 años, soy estudiante de la Ecotec. Actualmente estoy en 4to semestre, estudiando Ingeniería en Sistemas Inteligentes con interés en inteligencia artificial.
-
+zzzzzzz
 Prueba de cine , hoy miercoles 
 
 Clase de Redes del Ing Nelson Mejia
