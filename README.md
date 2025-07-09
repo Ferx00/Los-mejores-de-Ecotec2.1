@@ -8,13 +8,13 @@ Clase Rama 2: Bryan Tapia.
 
 Me presento, me llamo Bryan Tapia, tengo 21 años, estudio en la Ecotec. Estoy en 4to semestre y curso Ingeniería en Sistemas Inteligentes, enfocada en Ingeniería
 
-Clase Rama 3: Erick Aguilar
+Clase Rama 3: Erick Aguilarr
 
 Me presento, me llamo Erick Aguilar, tengo 22 años, soy estudiante de la Ecotec. Actualmente estoy en 4to semestre, estudiando Ingeniería en Sistemas Inteligentes con interés en inteligencia artificial.
-zzzzzzz
+z}
 Prueba de cine , hoy miercoles 
 
-Clase de Redes del Ing Nelson Mejia
+Clase de Redes 2 del Ing Nelson Mejia
 
 
 
