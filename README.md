@@ -14,7 +14,7 @@ Me presento, me llamo Erick Aguilar, tengo 22 años, soy estudiante de la Ecotec
 
 Prueba de cine , hoy miercoles 
 
-
+Clase de Redes del Ing Nelson Mejia
 
 
 
