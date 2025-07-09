@@ -12,7 +12,7 @@ Clase Rama 3: Erick Aguilar
 
 Me presento, me llamo Erick Aguilar, tengo 22 años, soy estudiante de la Ecotec. Actualmente estoy en 4to semestre, estudiando Ingeniería en Sistemas Inteligentes con interés en inteligencia artificial.
 
-Prueba de cine , hoy miercoles 
+Prueba de cine , hoy miercoles 24
 
 
 
